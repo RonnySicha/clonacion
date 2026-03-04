@@ -212,7 +212,7 @@ Las contribuciones son bienvenidas.
 
 ## 📝 Licencia
 
-Definir licencia (MIT recomendada si se desea uso abierto).
+[Copyright-Derechos de Autor] Licencia MIT
 
 ---
 
