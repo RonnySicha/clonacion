@@ -171,12 +171,6 @@ requirements.txt
 - `POTENCIALES INCORRECTOS-LNN-AAA.txt`
 - `NORMALIZADOS_RAROS-LNN-CCC.txt`
 
----
-
-## 📡 API (si aplica)
-
-No aplica.  
-El sistema funciona como aplicación de escritorio con interfaz gráfica.
 
 ---
 
